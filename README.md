@@ -5,7 +5,7 @@ Hello
 General text context
 
 *Italic* or -
-** Bold ** or -- Bold --
+**Bold** or --Bold--
 
 - list 1
 - list 2
