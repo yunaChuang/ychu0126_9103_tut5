@@ -4,8 +4,8 @@ Hello
 ## Project description
 General text context
 
-*Italic* or -
-**Bold** or --Bold--
+*Italic* or _Italic_: *, _
+**Bold** or __Bold__: **, __
 
 - list 1
 - list 2
